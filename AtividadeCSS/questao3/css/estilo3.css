@@ -1,0 +1,26 @@
+#fontevermelha {
+    font-family: Arial;
+    color: red;
+  }
+  
+  #fonteverde {
+    font-family: times;
+    font-size: 22px;
+    color: green;
+  }
+   
+  #fonteitalico {
+    font-family: sans-serif;
+    font-size: 20px;
+    color: blue;
+    font-style: italic;
+  }
+  
+  #fontenegrito {
+    font-family: Verdana;
+    font-size: 14px;
+    color: yellow;
+    font-weight: 500;
+    font-weight: bold;
+  }
+  

@@ -1,0 +1,39 @@
+
+.backcolor {
+    background-color: lightblue;
+  }
+  
+
+  .pverde {
+    background-color: lightgreen;
+  }
+
+  .imagemfixa {
+    background-image: url("../img/imagemfix.avif");
+    background-repeat: repeat;
+    background-attachment: fixed;
+  }
+  
+  .imagemvertical {
+    background-image: url("../img/imagemvert.avif");
+    background-repeat: repeat-y;
+  }
+  
+  .imagemnorepete {
+    background-image: url("../img/imagemnorepet.jpg");
+    background-repeat: no-repeat;
+  }
+  
+  .imagemcentralizada {
+    background-image: url("../img/imagemnorepet.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  
+  .backamarelo {
+    background-color: yellow;
+    background-image: url("../img/imagemnorepet.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: scroll;
+  }
