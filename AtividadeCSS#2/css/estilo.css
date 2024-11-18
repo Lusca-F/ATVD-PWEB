@@ -1,0 +1,29 @@
+ #div1 {
+            width: 100%; 
+            background-color: red;
+            padding: 20px;
+            text-align: center;
+            font-size: 30px;
+            
+        }
+
+#div2{
+    width: 1000px; 
+    height: 200px; 
+    display: flex;
+}
+
+.text {
+    color: red;
+    font-size: 25px;
+}
+.text2{
+    color:red;
+    display: flex;
+}
+
+#div3{
+    width: 1000px; 
+    height: 200px; 
+    display: flex;
+}
